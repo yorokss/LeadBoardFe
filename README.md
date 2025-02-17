@@ -59,14 +59,14 @@ npm start
 ```
 
 The API will start on port 3000 by default.
-```
+
 ## Routes
 http://localhost:5000/health
 http://localhost:5000/api/auth/register
 http://localhost:5000/api/auth/login
 http://localhost:5000/api/score
 http://localhost:5000/api/leaderboard
-```
+
 ```
 ## Contributing
 👤 Author
